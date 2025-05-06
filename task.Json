@@ -22,7 +22,7 @@
           ],
           "start": "Feb 22 , 2025",
           "end": " Feb 27 , 2025",
-          "status": "done",
+          "spider": "done",
           "priority": "High "
         },
         {
@@ -38,7 +38,7 @@
           ],
           "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "status": "todo",
+          "spider": "todo",
           "priority": "Medium"
         },
         {
@@ -54,7 +54,7 @@
           ],
           "start": "Feb 5, 2025",
           "end": " Feb 8 , 2025",
-          "status": "done",
+          "spider": "done",
           "priority": "Medium"
         },
         {
@@ -69,7 +69,7 @@
           ],
           "start": "Feb 5, 2025",
           "end": " Feb 8 , 2025",
-          "status": "todo",
+          "spider": "todo",
           "priority": "High"
         },
         {
@@ -84,7 +84,7 @@
           ],
           "start": "Feb 22 , 2025",
           "end": " Feb 27 , 2025",
-          "status": "progress",
+          "spider": "progress",
           "priority": "Low"
         },
         {
@@ -100,7 +100,7 @@
           ],
           "start": "Feb 6 , 2025",
           "end": " Feb 7 , 2025",
-          "status": "todo",
+          "spider": "todo",
           "priority": "High"
         },
         {
@@ -117,7 +117,7 @@
           ],
           "start": "Feb 5 , 2025",
           "end": " Feb 18 , 2025",
-          "status": "done",
+          "spider": "done",
           "priority": "Low"
         }
       ]
@@ -143,7 +143,7 @@
           ],
           "start": "Feb 5 , 2025",
           "end": " Feb 18 , 2025",
-          "status": "progress",
+          "spider": "progress",
           "priority": "Medium"
         },
         {
@@ -160,7 +160,7 @@
           "start": "Feb 2 , 2025",
           "end": " Feb 8 , 2025",
 
-          "status": "todo",
+          "spider": "todo",
           "priority": "Medium"
         },
         {
@@ -175,7 +175,7 @@
           ],
           "start": "Feb 2 , 2025",
           "end": " Feb 8 , 2025",
-          "status": "progress",
+          "spider": "progress",
           "priority": "Medium"
         },
         {
@@ -191,7 +191,7 @@
           ],
           "start": "Feb  , 2025",
           "end": " Feb 7, 2025",
-          "status": "todo",
+          "spider": "todo",
           "priority": "Medium"
         },
         {
@@ -207,7 +207,7 @@
           ],
           "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "status": "todo",
+          "spider": "todo",
           "priority": "Low"
         },
         {
@@ -223,7 +223,7 @@
           ],
           "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "status": "done",
+          "spider": "done",
           "priority": "Low"
         },
         {
@@ -239,7 +239,7 @@
           ],
           "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "status": "progress",
+          "spider": "progress",
           "priority": "Low"
         }
       ]
